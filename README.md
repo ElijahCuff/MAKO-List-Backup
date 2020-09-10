@@ -1,4 +1,5 @@
 # MAKO List Backup
+This project plans to make an Offline Accessible version of the MAKO list in fear it may be taken down soon, again.
 This is a backup of all the offenders on MAKO.org.au from A-Z in a Flat File database.
    
 It has taken me about 2 days and about 18 hours to build software and extract the government backup of MAKO.org.au from the Trove WayBack Machine and the Website Archive WayBack Machine.
