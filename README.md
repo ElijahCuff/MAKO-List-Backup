@@ -26,7 +26,7 @@ To read this file, you'll need a script that reads the file Line-By-Line until i
  
 
 EXAMPLE FILE,
-ADAM LAME CITIZEN (VIC) | 20 yrs old | Charged with Assault | Assault Details
+[CODE]ADAM LAME CITIZEN (VIC) | 20 yrs old | Charged with Assault | Assault Details[/CODE]
 JOHN DOE CITIZEN (NT) | 24 yrs old | Charged with Assault | Assault Details | Known Image 
 JIM HOE CITIZEN (ACT) | 60 yrs old | Charged with Assault | Assault Details
 
