@@ -10,9 +10,9 @@ This database uses the following structure,
 Each line in the file is a record found on MAKO, the Seperating Character for the information on each line is (|) without the brackets.
 
 Here's an example of the first line,   
-
+```
 FIRSTNAME MIDDLENAME LASTNAME ( OTHERNAME ) ( LOCATION ) | AGE | SENTENCE | OFFENCE | IMAGE OF OFFENDER
-
+```
 The line is Split into 5 sections,
 1 Name & Location
 2 Age
@@ -26,10 +26,11 @@ To read this file, you'll need a script that reads the file Line-By-Line until i
  
 
 EXAMPLE FILE,
-[CODE]ADAM LAME CITIZEN (VIC) | 20 yrs old | Charged with Assault | Assault Details[/CODE]
+```
+ADAM LAME CITIZEN (VIC) | 20 yrs old | Charged with Assault | Assault Details
 JOHN DOE CITIZEN (NT) | 24 yrs old | Charged with Assault | Assault Details | Known Image 
 JIM HOE CITIZEN (ACT) | 60 yrs old | Charged with Assault | Assault Details
-
+```
 Notice how only records with Found images have the Images link attached, this means that only records with images are 5 sections long, others are 4 sections long,
 this can make putting the details into an array difficult so be warned that the section count varies between 4 and 5 sections of information.
 
