@@ -28,7 +28,7 @@ To read this file, you'll need a script that reads the file Line-By-Line until i
 EXAMPLE FILE,
 ```
 ADAM LAME CITIZEN (VIC) | 20 yrs old | Charged with Assault | Assault Details
-JOHN DOE CITIZEN (NT) | 24 yrs old | Charged with Assault | Assault Details | Known Image 
+JOHN DOE CITIZEN (NT) | 24 yrs old | Charged with Assault | Assault Details | /images/john_citizen.jpg
 JIM HOE CITIZEN (ACT) | 60 yrs old | Charged with Assault | Assault Details
 ```
 Notice how only records with Found images have the Images link attached, this means that only records with images are 5 sections long, others are 4 sections long,
