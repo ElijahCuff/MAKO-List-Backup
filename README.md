@@ -2,10 +2,11 @@
 This project plans to make an Offline Accessible version of the MAKO list in fear it may be taken down soon, again.
 This is a backup of all the offenders on MAKO.org.au from A-Z in a Flat File database.    
    
-It has taken me about 2 days and about 18 hours to build software and extract the government backup of MAKO.org.au from the Trove WayBack Machine and the Website Archive WayBack Machine.   
+It has taken me about 2 days and about 18 hours to build software and extract the government backup of MAKO.org.au from the Trove WayBack Machine and the Website Archive WayBack Machine.  
+     
 • This file is a single database of all the offenders names, ages (if known), sentences & offences with a small description of the offence committed.   
 • It took me hours of time and hours to build software for this extraction to be as successful as it was.    
-   
+       
 ## How do i use this database ?    
 This database uses the following structure,    
 Each line in the file is a record found on MAKO, the Seperating Character for the information on each line is (|) without the brackets.    
