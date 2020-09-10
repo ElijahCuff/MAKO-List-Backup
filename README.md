@@ -34,5 +34,18 @@ JIM HOE CITIZEN (ACT) | 60 yrs old | Charged with Assault | Assault Details
 Notice how only records with Found images have the Images link attached, this means that only records with images are 5 sections long, others are 4 sections long,
 this can make putting the details into an array difficult so be warned that the section count varies between 4 and 5 sections of information.
 
+PLEASE NOTE THAT THE IMAGES TOOK UP 130 MB OF SPACE, FAR TOO BIG FOR GITHUB EXTRA DATA, SO I'VE FOUND A LIVE VERSION OF THE FOLDER HERE,
+```
+https://web.archive.org.au/awa/20180314133944im_/http://www.mako.org.au/images/
+```
 
+This was the latest backup on the WayBack Machine, so please use that link to make your live photo links work, example
+
+```
+https://web.archive.org.au/awa/20180314133944im_/http://www.mako.org.au/images/john_citizen.jpg
+```
+
+Please Be Sensible and Safe with this information.
+ 
+I'd like to give special thanks to the government WayBack machine and the Australian National Library for providing this information in 2020.
 
