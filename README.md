@@ -1,4 +1,6 @@
-# MAKO List Backup
+# MAKO List Backup/Dump
+Full Name, Offence Details and sometimes Face Image.   
+
 This project plans to make an Offline Accessible version of the MAKO list in fear it may be taken down soon, again.
 This is a backup of all the offenders on MAKO.org.au from A-Z in a Flat File database.    
    
