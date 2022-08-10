@@ -46,6 +46,17 @@ This was the latest backup on the WayBack Machine, so please use that link to ma
 ```
 https://web.archive.org.au/awa/20180314133944im_/http://www.mako.org.au/images/john_citizen.jpg
 ```
+   
+Other Resources,      
+Search Offenders on Trove,   
+```
+https://trove.nla.gov.au/search/advanced/category/websites?l-site=mako.org.au&keyword=First+Last
+```
+   
+Search Other Offenders on AussieOffenders,   
+```
+https://aussiesexoffenders.wordpress.com/?s=First+Last
+```
 
 Please Be Sensible and Safe with this information.
  
